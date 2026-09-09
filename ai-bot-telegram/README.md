@@ -58,7 +58,7 @@ luna-ai-companion/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/ilia20-8/luna-ai-companion.git
+   git clone https://github.com/Ilia-Tsituk/luna-ai-companion.git
    cd luna-ai-companion
    ```
 
